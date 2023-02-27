@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="734717e2-45c8-4d34-9ea4-157156a45ee8" name="Changes" comment="testing">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="734717e2-45c8-4d34-9ea4-157156a45ee8" name="Changes" comment="DID DATABSE STUFF!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smile.db" beforeDir="false" afterPath="$PROJECT_DIR$/smile.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/smile.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/smile.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +105,10 @@
       <workItem from="1676858103620" duration="887000" />
       <workItem from="1676859068311" duration="135000" />
       <workItem from="1677011158038" duration="2239000" />
-      <workItem from="1677013421661" duration="699000" />
+      <workItem from="1677013421661" duration="726000" />
+      <workItem from="1677198652862" duration="2729000" />
+      <workItem from="1677201403328" duration="270000" />
+      <workItem from="1677460813632" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="testing">
       <created>1676596696901</created>
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676859151771</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DID DATABSE STUFF!">
+      <created>1677014145770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677014145770</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,9 +146,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing" />
+    <MESSAGE value="DID DATABSE STUFF!" />
+    <option name="LAST_COMMIT_MESSAGE" value="DID DATABSE STUFF!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonCafe$PythonCafe.coverage" NAME="PythonCafe Coverage Results" MODIFIED="1677014107821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PythonCafe$PythonCafe.coverage" NAME="PythonCafe Coverage Results" MODIFIED="1677460935916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
